@@ -597,7 +597,7 @@ function MainComponent() {
             <div className="w-12 h-12 rounded-xl flex items-center justify-center logo-bounce overflow-hidden">
               <img
                 src="https://ucarecdn.com/de7fa151-a876-4a97-817a-a54c8002b5f1/-/format/auto/"
-                alt="FileConverter Pro"
+                alt="File Converter Pro"
                 className="w-full h-full object-cover rounded-xl"
               />
             </div>
